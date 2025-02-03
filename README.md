@@ -23,5 +23,5 @@ La aplicación "Amigo Secreto" permite ingresar nombres en una lista y realizar 
 
 ### 1️⃣ **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com//oscarjnz/ojp.24-0531.git
 ```
